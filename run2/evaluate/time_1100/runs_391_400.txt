@@ -1,0 +1,11 @@
+run,villages-point-mean,population-point-var,population-stability-mean-5-mean,population-stability-var-5-var,population-stability-mean-10-mean,population-stability-var-10-var,population-stability-mean-100-mean,population-stability-var-100-var,population-trend-5-mean,population-trend-10-var,population-trend-100-mean,matrilocal-point-var,matrilocal-stability-mean-5-mean,matrilocal-stability-var-5-var,matrilocal-stability-mean-10-mean,matrilocal-stability-var-10-var,matrilocal-stability-mean-100-mean,matrilocal-stability-var-100-var,population-point-mean,population-stability-var-5-mean,population-stability-var-10-mean,population-stability-var-100-mean,population-trend-10-mean,matrilocal-point-mean,matrilocal-stability-var-5-mean,matrilocal-stability-var-10-mean,matrilocal-stability-var-100-mean,villages-point-var,population-stability-mean-5-var,population-stability-mean-10-var,population-stability-mean-100-var,population-trend-5-var,population-trend-100-var,matrilocal-stability-mean-5-var,matrilocal-stability-mean-10-var,matrilocal-stability-mean-100-var
+391,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+392,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+393,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+394,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+395,30,1600.75959183673,7890.804,30336.0296367347,7888.668,105776.146889594,7882.4828,314416.128162016,0.999907964669717,3.36175473099993e-05,1.0005176935515,0,0.33,0,0.33,0,0.33,0,7891.66,194.266,367.728,1359.79202828283,1.00121180716778,0.33,0,0,0,0,1520.59671836735,1534.25160816326,365.237955265305,1.49433594761951e-05,5.44523861171441e-05,0,0,0
+396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+397,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+398,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+399,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+400,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

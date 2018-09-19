@@ -1,0 +1,11 @@
+run,villages-point-mean,population-point-var,population-stability-mean-5-mean,population-stability-var-5-var,population-stability-mean-10-mean,population-stability-var-10-var,population-stability-mean-100-mean,population-stability-var-100-var,population-trend-5-mean,population-trend-10-var,population-trend-100-mean,matrilocal-point-var,matrilocal-stability-mean-5-mean,matrilocal-stability-var-5-var,matrilocal-stability-mean-10-mean,matrilocal-stability-var-10-var,matrilocal-stability-mean-100-mean,matrilocal-stability-var-100-var,population-point-mean,population-stability-var-5-mean,population-stability-var-10-mean,population-stability-var-100-mean,population-trend-10-mean,matrilocal-point-mean,matrilocal-stability-var-5-mean,matrilocal-stability-var-10-mean,matrilocal-stability-var-100-mean,villages-point-var,population-stability-mean-5-var,population-stability-mean-10-var,population-stability-mean-100-var,population-trend-5-var,population-trend-100-var,matrilocal-stability-mean-5-var,matrilocal-stability-mean-10-var,matrilocal-stability-mean-100-var
+3911,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3912,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3913,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3914,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3915,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3916,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3917,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3918,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3919,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3920,49.74,219116.243265306,26246.54,486758.086269388,26242.82,1376529.9724392,26243.0084,46543400.9192962,0.999941615802001,1.14904805420074e-05,1.00074092706864,2.95918367346939e-05,0.20108,4.08163265306122e-10,0.20102,2.16542705971277e-10,0.200774,7.62282417704149e-10,26244.96,656.484,1483.34177777778,6965.60821010101,1.0001208682296,0.201,4e-06,3.57777777777778e-06,7.86808080808081e-06,0.64530612244898,222185.809387755,224474.742857143,193565.999797388,4.83663618438258e-06,3.72802897612283e-05,1.47281632653061e-05,1.29995918367347e-05,1.23586979591837e-05

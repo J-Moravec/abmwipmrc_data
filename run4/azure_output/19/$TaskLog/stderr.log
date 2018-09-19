@@ -1,0 +1,32 @@
+2018-05-31 07:45:46.843 INFO - 
+============================================
+         Azure blobxfer parameters
+============================================
+         blobxfer version: 1.0.0
+                 platform: Linux-4.13.0-1018-azure-x86_64-with-Ubuntu-16.04-xenial
+               components: CPython=3.5.2 azstor.blob=0.37.1 azstor.file=0.36.0 crypt=2.2.2 req=2.18.4
+       transfer direction: local -> Azure
+                  workers: disk=4 xfer=8 md5=0 crypto=0
+                 log file: None
+              resume file: None
+                  timeout: connect=3.1 read=12.1
+                     mode: StorageModes.Auto
+                  skip on: fs_match=False lmt_ge=False md5=False
+        delete extraneous: False
+                overwrite: True
+                recursive: True
+            rename single: True
+         chunk size bytes: 0
+           one shot bytes: 0
+         strip components: 0
+         store properties: attr=False md5=False
+           rsa public key: None
+       local source paths: zipped/runs_191_200.gz
+============================================
+2018-05-31 07:45:46.843 INFO - blobxfer start time: 2018-05-31 07:45:46.843573+00:00
+2018-05-31 07:45:46.843 DEBUG - spawning 4 disk threads
+2018-05-31 07:45:46.864 DEBUG - spawning 8 transfer threads
+2018-05-31 07:45:47.077 DEBUG - 0 files 0.0000 MiB filesize and/or lmt_ge skipped
+2018-05-31 07:45:47.078 DEBUG - 1 local/remote files processed, waiting for upload completion of approx. 3.3470 MiB
+2018-05-31 07:45:47.269 INFO - elapsed upload + verify time and throughput of 0.0033 GiB: 0.193 sec, 138.4223 Mbps (17.303 MiB/s)
+2018-05-31 07:45:47.270 INFO - blobxfer end time: 2018-05-31 07:45:47.270080+00:00 (elapsed: 0.427 sec)

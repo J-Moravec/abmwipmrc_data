@@ -1,0 +1,11 @@
+run,villages-point-mean,population-point-var,population-stability-mean-5-mean,population-stability-var-5-var,population-stability-mean-10-mean,population-stability-var-10-var,population-stability-mean-100-mean,population-stability-var-100-var,population-trend-5-mean,population-trend-10-var,population-trend-100-mean,matrilocal-point-var,matrilocal-stability-mean-5-mean,matrilocal-stability-var-5-var,matrilocal-stability-mean-10-mean,matrilocal-stability-var-10-var,matrilocal-stability-mean-100-mean,matrilocal-stability-var-100-var,population-point-mean,population-stability-var-5-mean,population-stability-var-10-mean,population-stability-var-100-mean,population-trend-10-mean,matrilocal-point-mean,matrilocal-stability-var-5-mean,matrilocal-stability-var-10-mean,matrilocal-stability-var-100-mean,villages-point-var,population-stability-mean-5-var,population-stability-mean-10-var,population-stability-mean-100-var,population-trend-5-var,population-trend-100-var,matrilocal-stability-mean-5-var,matrilocal-stability-mean-10-var,matrilocal-stability-mean-100-var
+861,0,0,0,0,0,0,690.9718,9959615507.91075,0,0,0,0,0,0,0,0,0,0,0,0,0,1827319.0073798,0,0,0,0,0,0,0,0,644.315610979592,0,0,0,0,0
+862,0,0,0,0,0,0,3173.934,299186407859.539,0,0,0,0,0,0,0,0,0,0,0,0,0,19450693.8876404,0,0,0,0,0,0,0,0,9654.0253877551,0,0,0,0,0
+863,0,0,0,0,0,0,6106.5338,444907576204.19,0,0,0,0,0,0,0,0,0,0,0,0,0,45515166.5616303,0,0,0,0,0,0,0,0,15524.5653505714,0,0,0,0,0
+864,0,0,0,0,0,0,8834.9252,607156233395.439,0,0,0,0,0,0,0,0,0,0,0,0,0,67875291.4101172,0,0,0,0,0,0,0,0,42314.3591724082,0,0,0,0,0
+865,0,0,0,0,0,0,11496.2838,2044673529855.77,0,0,0,0,0,0,0,0,0,0,0,0,0,82707114.9482162,0,0,0,0,0,0,0,0,38309.663799551,0,0,0,0,0
+866,0,0,0,0,0,0,665.6396,10754731437.7235,0,0,0,0,0,0,0,0,0,0,0,0,0,1776020.13825859,0,0,0,0,0,0,0,0,488.689016163265,0,0,0,0,0
+867,0,0,0,0,0,0,2654.3042,488381023694.432,0,0,0,0,0,0,0,0,0,0,0,0,0,17331962.1775253,0,0,0,0,0,0,0,0,12729.5035840408,0,0,0,0,0
+868,0,0,0,0,0,0,4897.6746,1086832394975.94,0,0,0,0,0,0,0,0,0,0,0,0,0,41337543.9037071,0,0,0,0,0,0,0,0,22397.5955559592,0,0,0,0,0
+869,0,0,0,0,0,0,6909.484,719745146101.144,0,0,0,0,0,0,0,0,0,0,0,0,0,64618985.7072202,0,0,0,0,0,0,0,0,18973.9999959184,0,0,0,0,0
+870,0,0,0,0,0,0,8629.0754,1070101370123.11,0,0,0,0,0,0,0,0,0,0,0,0,0,84290917.161,0,0,0,0,0,0,0,0,40040.9880865714,0,0,0,0,0

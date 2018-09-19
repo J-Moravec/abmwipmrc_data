@@ -1,0 +1,11 @@
+azure_run1
+ -- general parameter search with depth = 5
+
+azure_run2
+ --  azure_run1 with varied depth, possibly less parameters
+
+azure_run3
+ -- either run1 or run2 where switch to matrilocality is not allowed (to compare survival)
+
+azure_run4
+ -- either run1 or run2 with matrilocal pressure (0.1, 0.3, 0.5, 1 and 2)
