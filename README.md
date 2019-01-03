@@ -1,6 +1,6 @@
 ## Data and analysis of Agent-Based Model of Warfare-Induced Residence Change
 
-This is supplementary information for the chapter 5 of my thesis "Computational approaches for the study of post-marital residence".
+This is supplementary information for "An Agent-Based Model of Warfare-Induced Post-Marital Residence Change (Moravec et al. 2019)
 
 ### Content
 
